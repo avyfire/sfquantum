@@ -22,11 +22,11 @@ p{
 }
 
 h1 {
-  color: $quantum-main; 
+  color: $calie-main; 
 }
 
 h3{
-    color: $quantum-main;
+    color: $calie-main;
 }
 
 em {
@@ -92,7 +92,7 @@ header{
 .language_select{
     border: none;
     text-transform: uppercase;
-    color: $quantum-main;
+    color: $calie-main;
     background: transparent;
     margin-bottom: 10px;
 }
@@ -110,7 +110,7 @@ header{
     position: absolute;
     top: 6px;
     right: 5px;
-    color: $quantum-main;
+    color: $calie-main;
     font-size: 1.5em; 
 }
 
@@ -121,8 +121,8 @@ header{
 .searchbar {
   border-radius: 20px;
   padding: 5px;
-  border: 2px solid $quantum-main;
-  color: $quantum-main; 
+  border: 2px solid $calie-main;
+  color: $calie-main; 
 }
 
 .HomepageHeader-hgroup2 {
@@ -168,7 +168,7 @@ header{
 }
 
 .sflanguagesDropDown {
-  color: $quantum-main;
+  color: $calie-main;
   text-transform: uppercase;
   border: none;
 }
@@ -177,7 +177,7 @@ header{
     height: 100px;
 }
     .logged-test a{
-        color: $quantum-main;
+        color: $calie-main;
         margin-right: 5px;
     }
 /* @end Header */
@@ -200,11 +200,11 @@ footer{
 }
 
 .footer_social a:nth-child(odd){
-    color: $quantum-main;
+    color: $calie-main;
 }
 
 .footer_social a:nth-child(even){
-    color: $quantum-complementary;
+    color: $calie-complementary;
 }
 
 .footer_social a:hover {
@@ -234,7 +234,7 @@ footer{
 }
 
 .nav-sitemap a, .nav-stacked a{
-    color: $quantum-main;
+    color: $calie-main;
 }
 
 .foot_nav {
@@ -307,7 +307,7 @@ footer{
 .sf-list-item a{
   padding-bottom: 10px;
   padding-top: 10px;
-  color: $quantum-main;
+  color: $calie-main;
   font-size: 20px;
 }
 
@@ -342,7 +342,7 @@ footer{
 }
 
 .form-group input{
-      border: 1px solid $quantum-main;
+      border: 1px solid $calie-main;
 }
 
 .pagination{
@@ -350,8 +350,8 @@ footer{
 }
 
 .btn-quantum{
-    background-color: $quantum-action;
-    border-color: $quantum-action;
+    background-color: $calie-action;
+    border-color: $calie-action;
 }
 
 .btn-quantum:hover {

@@ -6,7 +6,7 @@
 }
 
 .glyphicon-chevron-right, .glyphicon-chevron-left{
-  color: $quantum-main;
+  color: $calie-main;
   font-size: 1.5em; }
 
 .glyphicon-chevron-right{
@@ -19,7 +19,7 @@
 
 .glyphicon-chevron-right, .glyphicon-chevron-left {
   font-size: 3em;
-  color: $quantum-main;
+  color: $calie-main;
   position: absolute;
   top: 50%;
   @media (max-width: 885px) {
@@ -61,7 +61,7 @@
 .feat_heading {
   text-transform: uppercase;
   font-size: 52px;
-  color: $quantum-main; 
+  color: $calie-main; 
 
   @media (max-width: 1085px) {
     font-size:40px;
@@ -107,7 +107,7 @@
 }
 
 .carousel-indicators li {
-  background-color: $quantum-main;
+  background-color: $calie-main;
   border: 2px solid grey; }
 
 .carousel-control {
@@ -132,7 +132,7 @@
 
 .active a {
       background-color: white!important;
-      color: $quantum-main !important;
+      color: $calie-main !important;
 }
 
 .buttons-position{
@@ -142,7 +142,7 @@
 }
 
 .buttons-position span{
-    color:  $quantum-main;
+    color:  $calie-main;
 }
 
 .pause-button, .play-button:hover{

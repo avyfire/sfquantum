@@ -41,7 +41,7 @@
   }
 
 .news_heading{
-      color: $quantum-main;
+      color: $calie-main;
   }
  
 .news_author{
@@ -51,7 +51,7 @@
   }
 
 .news_summary{
-      background-color: $quantum-complementary;
+      background-color: $calie-complementary;
       padding: 2%;
       margin-top: 1%;
       margin-bottom: 1%;
@@ -76,14 +76,14 @@
 }
 
 .download_item a{
-    color: $quantum-main; 
+    color: $calie-main; 
 }
 
 .featured_news, .featured_news_recent {
   width: 100%;
   margin: 1%;
   padding: 1%;
-  background: $quantum-main;
+  background: $calie-main;
   border: 1px solid $color-gray;
   color: white;
   position:relative; 
@@ -93,7 +93,7 @@
 }
 
 .featured_news_recent:hover{
-   box-shadow: 0 4px 15px $quantum-main;
+   box-shadow: 0 4px 15px $calie-main;
 }
 
 .featured_news a, .featured_news_recent a {
@@ -110,7 +110,7 @@
 }
 
 .blog_item a{
-    color: $quantum-main;
+    color: $calie-main;
 }
 
 .ribbon {

@@ -10,6 +10,12 @@ $quantum-main: rgb(0, 180, 201); //Quantum Blue
 $quantum-action: rgb(255,174,0); //Quantum Orange
 $quantum-complementary: rgb(129,223,176); //Light Green
 
+$calie-main: rgb(190, 175, 125); //Calie Gold
+$calie-action: rgb(100, 112, 130); //Calie bluemain
+$calie-complementary: rgb(222, 212, 188); //Calie lightgold
+$calie-secondary: rgb(100, 112, 130); //Calie darkblue
+$calie-secondary-light: rgb(150, 160, 175); //Calie lightblue
+
 
 /* Website Colors */
 /*
@@ -17,10 +23,10 @@ Use these variables when setting colors in theme.
 Inherit values from above if necessary.
 */
 
-$color-primary: $quantum-main;
+$color-primary: $calie-main;
 $color-primary-overlay: rgba(0, 180, 201, .5);
-$color-secondary: $quantum-complementary;
-$color-bright: $quantum-action;
+$color-secondary: $calie-complementary;
+$color-bright: $calie-action;
 $color-light: rgb(247,251,240);
 $color-button-dark: rgb(255,152,57);
 $color-overlay: rgba(0,0,0,.4);
@@ -82,9 +88,9 @@ $font-family-display: 'Open Sans', sans-serif;
 }
 
 .main-color{
-    color: $quantum-main;
+    color: $calie-main;
     a{
-        color:$quantum-main;
+        color:$calie-main;
     }
 }
 
